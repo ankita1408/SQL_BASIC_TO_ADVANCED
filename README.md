@@ -55,7 +55,7 @@ SQL/
     ├── 04_Interview_Style_Problems.md
     ├── 05_Problem_Patterns_and_Optimization.md
     └── 06_Performance_Monitoring.md
-
+```
 ### How to Use This Repository
 1. Start with the `01_Fundamentals` section
 2. Complete each section sequentially
