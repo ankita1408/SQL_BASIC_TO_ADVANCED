@@ -63,44 +63,6 @@ SQL/
 4. Solve problems in `06_Practice_Problems`
 5. Test your knowledge with interview questions
 
-## Repository Structure
-
-### 1. Fundamentals (`01_Fundamentals/`)
-- Database basics and concepts
-- SQL commands (DDL, DML, DCL, TCL)
-- Basic queries and operations
-
-### 2. Data Manipulation (`02_Data_Manipulation/`)
-- Data types and operators
-- Functions and procedures
-- Advanced operations
-
-### 3. Joins and Relationships (`03_Joins_and_Relationships/`)
-- Types of JOINs
-- Subqueries
-- Advanced relationships
-
-### 4. Advanced Concepts (`04_Advanced_Concepts/`)
-- Query optimization
-- Window functions
-- Views and procedures
-- Database administration
-- Advanced SQL functions
-
-### 5. Database Design (`05_Database_Design/`)
-- Database normalization
-- Schema design principles
-- Indexing strategies
-- Constraints and relationships
-- Performance design patterns
-
-### 6. Practice Problems (`06_Practice_Problems/`)
-- LeetCode/HackerRank solutions
-- Real-world case studies
-- Advanced problems
-- Interview preparation
-- Performance monitoring
-
 ## Learning Path
 
 ### Level 1: Basics (2-3 weeks)
@@ -164,11 +126,6 @@ SQL/
 4. System design questions
 
 ## Additional Resources
-
-### Documentation
-- MySQL: [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
-- PostgreSQL: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
-- SQL Server: [https://docs.microsoft.com/en-us/sql/](https://docs.microsoft.com/en-us/sql/)
 
 ### Online Practice
 - LeetCode: [https://leetcode.com/](https://leetcode.com/)
