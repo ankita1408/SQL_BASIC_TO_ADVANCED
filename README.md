@@ -49,6 +49,7 @@ SQL/
 │   └── 05_Advanced_SQL_Functions.md
 │
 └── 05_Practice_Problems/          # Practice exercises
+    ├── leetcode.md                # 🎯 88+ LeetCode SQL Problems (Easy/Medium/Hard)
     ├── 01_LeetCode_HackerRank_Solutions.md
     ├── 02_Real_World_Case_Studies.md
     ├── 03_Advanced_LeetCode_Solutions.md
@@ -120,10 +121,27 @@ SQL/
 5. Common problems and solutions
 
 ### Practice Areas
-1. LeetCode problems
+1. **LeetCode SQL Problems** - 88+ problems with solutions (Easy/Medium/Hard)
 2. Real-world scenarios
 3. Performance optimization
 4. System design questions
+
+## 🎯 LeetCode SQL Problems Collection
+
+This repository includes a comprehensive collection of **88+ LeetCode SQL problems** with detailed solutions:
+
+### Problem Categories:
+- **Easy Problems**: 50+ problems covering basic SQL concepts
+- **Medium Problems**: 25+ problems with intermediate complexity
+- **Hard Problems**: 13+ advanced problems for expert-level practice
+
+### What's Included:
+- ✅ Complete SQL solutions for each problem
+- ✅ Direct links to LeetCode problem descriptions
+- ✅ Organized by difficulty level
+- ✅ Covers all major SQL concepts: JOINs, subqueries, window functions, aggregations, and more
+
+**📁 Location**: [`05_Practice_Problems/leetcode.md`](05_Practice_Problems/leetcode.md)
 
 ## Additional Resources
 
@@ -132,7 +150,8 @@ SQL/
 - HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
 - SQL Zoo: [https://sqlzoo.net/](https://sqlzoo.net/)
 
- practice problems
-
+### Cheat Sheet
+- SQL:[cheatsheet](https://drive.google.com/file/d/1sGn1aiE6gvGdakA52jjtXmN7TfogYrTB/view)
+- regex:[regex](https://www.rexegg.com/regex-quickstart.php)
 
 Happy Learning! 🚀
