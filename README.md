@@ -49,7 +49,7 @@ SQL/
 │   └── 05_Advanced_SQL_Functions.md
 │
 └── 05_Practice_Problems/          # Practice exercises
-    ├── leetcode.md                # 🎯 88+ LeetCode SQL Problems (Easy/Medium/Hard)
+    ├── leetcode.md
     ├── 01_LeetCode_HackerRank_Solutions.md
     ├── 02_Real_World_Case_Studies.md
     ├── 03_Advanced_LeetCode_Solutions.md
